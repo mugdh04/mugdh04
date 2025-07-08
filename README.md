@@ -33,16 +33,16 @@
 ## 🛠️ Highlight Projects
 
 ### [Vid.AI](https://github.com/mugdh04/Vid.AI)
-> **Text-to-video AI platform** using Google Gemini + Pexels API for smart content generation.
+> **Text-to-video AI platform** using OpenAI API + Pexels API for smart content generation.
 
-### [Bite.AI]
+### [Bite.AI](https://github.com/mugdh04/Swigato)
 > Personalized food delivery chatbot powered by **NLP** & **FAISS**, understanding mood and diet.
 > Integrated with **Swigato**.
 
 ### [Swigato](https://github.com/mugdh04/Swigato)
 > A fully functional food delivery website built using **Django**, with product and restaurant listing options.
 
-### [GitDia-Django]
+### GitDia-Django
 > A system architecture visualizer for GitHub repositories, transforming code structure of Django projects into interactive diagrams for better understanding.
 
 ---
