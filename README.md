@@ -42,8 +42,8 @@
 ### [Swigato](https://github.com/mugdh04/Swigato)
 > A fully functional food delivery website built using **Django**, with product and restaurant listing options.
 
-### GitDia-Django
-> A system architecture visualizer for GitHub repositories, transforming code structure of Django projects into interactive diagrams for better understanding.
+### [django.works](https://github.com/mugdh04/django.works)
+> A system architecture visualizer for GitHub repositories, transforming code structure of Django projects into interactive diagrams showing us how the django project works.
 
 ---
 
