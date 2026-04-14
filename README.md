@@ -67,7 +67,7 @@
 ## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mugdh04) 
-[![Portfolio](https://img.shields.io/badge/-MyPortfolio-24292E?style=flat-square&logo=github&logoColor=white)](https://mugdh.ct.ws)
+[![Portfolio](https://img.shields.io/badge/-MyPortfolio-24292E?style=flat-square&logo=github&logoColor=white)](https://mugdh.vercel.app)
 
 ---
 
